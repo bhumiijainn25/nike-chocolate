@@ -101,9 +101,7 @@ npm start
 Frontend Developer
 
 - GitHub: https://github.com/bhumiijainn25
-- LinkedIn: https://www.linkedin.com/in/your-linkedin-profile/
-
-> Replace the LinkedIn URL with your actual profile link.
+- LinkedIn: https://www.linkedin.com/in/bhumi-jain-21575a343/
 
 ---
 
